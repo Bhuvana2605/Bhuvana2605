@@ -77,7 +77,7 @@ Currently exploring AI agents, workflow automation, and operations intelligence.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Working On 
 
 ### AI Operations Intelligence Platform
 
@@ -91,9 +91,6 @@ Building an AI powered platform that helps teams monitor workflows, automate rep
 
 🔗 **Live Repository:** [GitHub](https://github.com/Bhuvana2605/AI-Operations-Intelligence-Platform)
 
-### Secure QR Authentication System
-
-A secure QR verification system using React, Spring Boot, AES encryption, and MySQL.
 
 ---
 
